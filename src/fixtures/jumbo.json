@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Disfruta en tu TV",
+    "subTitle": "Míralo en televisores inteligentes, PlayStation, Xbox, Chromecast, Apple TV, reproductores de Blu-ray y más.",
+    "image": "/images/misc/home-tv.jpg",
+    "alt": "Tiger King on Netflix",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Descarga tus programas para verlos sobre la marcha.",
+    "subTitle": "Guarda tus datos y mira todos tus favoritos sin conexión.",
+    "image": "/images/misc/home-mobile.jpg",
+    "alt": "Watch on mobile",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "Mira en todas partes.",
+    "subTitle": "Transmita películas y programas de TV ilimitados en su teléfono, tableta, computadora portátil y TV sin pagar más.",
+    "image": "/images/misc/home-imac.jpg",
+    "alt": "Money Heist on Netflix",
+    "direction": "row"
+  }
+]
