@@ -6,14 +6,7 @@ import 'firebase/auth';
 // import { seedDatabase } from '../seed';
 
 const config = {
-  apiKey: "AIzaSyAYN03dF43s6MtMqjdDmVx0FFCKi-Kv5BM",
-  authDomain: "devter-daaf2.firebaseapp.com",
-  databaseURL: "https://devter-daaf2.firebaseio.com",
-  projectId: "devter-daaf2",
-  storageBucket: "devter-daaf2.appspot.com",
-  messagingSenderId: "988730163442",
-  appId: "1:988730163442:web:ac8bbfde3ec1e0404c506b",
-  measurementId: "G-8NV68YQGXF"
+  
 };
 
 const firebase = Firebase.initializeApp(config);
